@@ -16,6 +16,7 @@ I code here
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Peter8299/Coding-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Peter8299/Coding-Questions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Peter8299/Coding-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -25,6 +26,7 @@ I code here
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Peter8299/Coding-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Peter8299/Coding-Questions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Peter8299/Coding-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Peter8299/Coding-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Linked List
 |  |
@@ -52,4 +54,8 @@ I code here
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Peter8299/Coding-Questions/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Peter8299/Coding-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
