@@ -15,6 +15,7 @@ I code here
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Peter8299/Coding-Questions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Peter8299/Coding-Questions/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -47,4 +48,8 @@ I code here
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Peter8299/Coding-Questions/tree/master/0066-plus-one) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Peter8299/Coding-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
